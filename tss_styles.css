@@ -15,9 +15,15 @@
 
 /* HTML and Body Styles */
 
+body {
+    color: red;
+    text-align: center;
+}
 
-
-
+h1, h2, h4 {  
+    color: red; 
+    text-align: center;
+}
 
 /* Heading Styles */
 
