@@ -52,11 +52,4 @@ body > article#about_tss img {
 article.syllabus {
     float: left;
 	width: 74.5%;
-	margin: 0 4% 0 0%;
-}
-
-
-body > footer {
-	width: 100%;
-	clear: left;
 }
